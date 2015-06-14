@@ -1,0 +1,14 @@
+{
+  "name": "christofferrydberg",
+  "version": "0.0.5",
+  "authors": [
+    "Christoffer Rydberg <christoffer@rydberg.me>"
+  ],
+  "description": "Todoings",
+  "license": "Todoings",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap-sass-official": "~3.3.4",
+    "FitText.js": "~1.2.0"
+  }
+}
