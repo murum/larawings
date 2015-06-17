@@ -4,12 +4,13 @@
   "authors": [
     "Christoffer Rydberg <christoffer@rydberg.me>"
   ],
-  "description": "Todoings",
-  "license": "Todoings",
+  "description": "Larawings",
+  "license": "Larawings",
   "dependencies": {
     "jquery": "~2.1.4",
     "bootstrap-sass-official": "~3.3.4",
     "FitText.js": "~1.2.0",
-    "vue": "~0.12.1"
+    "vue": "~0.12.1",
+    "matchHeight": "~0.6.0"
   }
 }

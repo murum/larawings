@@ -17,7 +17,8 @@ var paths = {
  'jquery': 'bower_components/jquery/',
  'bootstrap': 'bower_components/bootstrap-sass-official/',
  'fitText': 'bower_components/FitText.js/',
- 'vue': 'bower_components/vue/'
+ 'vue': 'bower_components/vue/',
+ 'matchHeight': 'bower_components/matchHeight/'
 };
 
 elixir(function (mix) {
@@ -28,7 +29,8 @@ elixir(function (mix) {
       paths.jquery        + 'dist/jquery.js',
       paths.bootstrap     + 'assets/javascripts/bootstrap.js',
       paths.fitText       + 'jquery.fittext.js',
-      paths.vue           + 'dist/vue.js'
+      paths.vue           + 'dist/vue.js',
+      paths.matchHeight   + '/jquery.matchHeight.js'
      ],
      'public/js/vendor.js',
      __dirname + '/'
