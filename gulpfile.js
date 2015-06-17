@@ -54,7 +54,7 @@ elixir(function (mix) {
   'public/**/*',
   'resources/views/**/*'
  ], {
-  proxy: 'johnells.hub.dev',
+  proxy: 'larawings.dev',
   reloadDelay: 2000
  });
 });
