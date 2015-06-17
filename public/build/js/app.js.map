@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA","file":"app.js","sourcesContent":["$(function() {\n    $(\"html\").fitText(3.2, {\n        minFontSize: \"11px\",\n        maxFontSize: \"16px\"\n    });\n});"],"sourceRoot":"/source/"}
